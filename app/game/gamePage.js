@@ -75,14 +75,21 @@ const GamePage = ({ genres, platforms, games }) => {
     setReviews((prevReviews) => {
       const updatedReviews = { ...prevReviews };
       if (updatedReviews[gameId]) {
-        updatedReviews[gameId] = updatedReviews[gameId].filter((_, i) => i !== index); 
+        updatedReviews[gameId] = updatedReviews[gameId].filter((_, i) => i !== index);
+        
+        // Remove the gameId key if it has no reviews left
+        if (updatedReviews[gameId].length === 0) {
+          delete updatedReviews[gameId]; // This removes the key
+        }
       }
   
       localStorage.setItem('gameReviews', JSON.stringify(updatedReviews));
+      console.log('Updated gameReviews after delete:', updatedReviews); // Log the updated reviews
   
       return updatedReviews;
     });
   };
+  
 
   return (
     <div>

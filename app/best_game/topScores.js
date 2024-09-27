@@ -7,7 +7,7 @@ const TopScores = () => {
 
   useEffect(() => {
     const savedReviews = localStorage.getItem('gameReviews');
-    
+    console.log('savedReviews :', savedReviews);
     if (savedReviews) {
       const reviews = JSON.parse(savedReviews);
       const scoreMap = {};
