@@ -14,7 +14,8 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
@@ -28,7 +29,7 @@ Our first page starts with an overview page showing graph stat referring to each
 
 
 
-![Screenshot (169)](https://github.com/user-attachments/assets/b863f1c5-5d88-4ab5-84ec-10f53e5ca8b2)
+![Screenshot (187)](https://github.com/user-attachments/assets/3fb9997b-9028-47dd-8eb3-47f52eb2b6ec)
 
 
 command to run if program contains helper info
