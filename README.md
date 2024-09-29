@@ -20,17 +20,27 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+ Project Title: GAME REVIEWS
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Description
+Our first page starts with an overview page showing graph stat referring to each platform, the trends in each year we have 2 platform PC and Web Browser.   
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Screenshot (169)](https://github.com/user-attachments/assets/b863f1c5-5d88-4ab5-84ec-10f53e5ca8b2)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+command to run if program contains helper info
+Authors
+Contributors names and contact info
+
+ex. Dominique Pizzie
+ex. @DomPizzie
+
+Version History
+0.2
+Various bug fixes and optimizations
+See commit change or See release history
+0.1
+Initial Release
