@@ -23,25 +23,40 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
  Project Title: GAME REVIEWS
 
+Member: Nutthavit Charoensivakorn, 6530347.
+
 
 Description
 Our first page starts with an overview page showing graph stat referring to each platform, the trends in each year we have 2 platform PC and Web Browser.   
 
 
-
 ![Screenshot (187)](https://github.com/user-attachments/assets/3fb9997b-9028-47dd-8eb3-47f52eb2b6ec)
 
+Page 2
+It is about our GAME list page It contains about Genre of the game, platform selector, and filer by name of the game.
 
-command to run if program contains helper info
-Authors
-Contributors names and contact info
+![Screenshot (182)](https://github.com/user-attachments/assets/97d42076-bd5f-4a2c-b540-cd2e3c661869)
 
-ex. Dominique Pizzie
-ex. @DomPizzie
 
-Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
+
+![Screenshot (183)](https://github.com/user-attachments/assets/32a58480-6514-4bc1-8268-ee1bec1b6033)
+
+On this page, users can create a comment or review 
+
+
+![Screenshot (190)](https://github.com/user-attachments/assets/52e437ad-2ef7-4300-9106-223486050589)
+
+It will be added to the best game pages which are sorted by score.
+
+
+
+![Screenshot (192)](https://github.com/user-attachments/assets/fa8d4f28-2209-4eeb-80cb-5b6be5b9a1e9)
+
+They also managed to post scores, adjust, or delete.
+
+![image](https://github.com/user-attachments/assets/544476a8-4e97-4271-88bd-7abfbe902434)
+
+
+
+
+
