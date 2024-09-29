@@ -54,7 +54,8 @@ It will be added to the best game pages which are sorted by score.
 
 They also managed to post scores, adjust, or delete.
 
-![image](https://github.com/user-attachments/assets/544476a8-4e97-4271-88bd-7abfbe902434)
+![image](https://github.com/user-attachments/assets/81162635-fb91-403d-8962-0f7f9041b770)
+
 
 
 
